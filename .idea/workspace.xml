@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c5310e6a-4413-427d-a65a-cdbe88f8e1f0" name="Default Changelist" comment="&#10;IFel concept">
-      <change afterPath="$PROJECT_DIR$/PythonTutorial/whileloopDemo.py" afterDir="false" />
+    <list default="true" id="c5310e6a-4413-427d-a65a-cdbe88f8e1f0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/PythonTutorial/BreakAndContinue.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,8 +31,8 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Python.whileloopDemo">
-    <configuration name="DataType" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.BreakAndContinue">
+    <configuration name="BreakAndContinue" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python3Session" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -44,7 +44,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonTutorial/DataType.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonTutorial/BreakAndContinue.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -139,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.BreakAndContinue" />
         <item itemvalue="Python.whileloopDemo" />
         <item itemvalue="Python.IFELSEdemo" />
         <item itemvalue="Python.listDemo" />
         <item itemvalue="Python.StringDemo" />
-        <item itemvalue="Python.DataType" />
       </list>
     </recent_temporary>
   </component>
@@ -186,40 +186,48 @@
       <option name="project" value="LOCAL" />
       <updated>1586343841765</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="while loop , for loop, nested loop concepts">
+      <created>1586373312078</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1586373312078</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="StringDemo.py" />
     <MESSAGE value="List concept" />
     <MESSAGE value="&#10;IFel concept" />
-    <option name="LAST_COMMIT_MESSAGE" value="&#10;IFel concept" />
+    <MESSAGE value="while loop , for loop, nested loop concepts" />
+    <option name="LAST_COMMIT_MESSAGE" value="while loop , for loop, nested loop concepts" />
   </component>
   <component name="WindowStateProjectService">
     <state x="433" y="173" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586172448985">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="433" y="173" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1586172448985" />
-    <state x="349" y="0" key="CommitChangelistDialog2" timestamp="1586373190815">
+    <state x="349" y="0" key="CommitChangelistDialog2" timestamp="1586373271261">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="349" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1586373190815" />
-    <state width="1308" height="163" key="GridCell.Tab.0.bottom" timestamp="1586372916031">
+    <state x="349" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1586373271261" />
+    <state width="1308" height="163" key="GridCell.Tab.0.bottom" timestamp="1586512924226">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1308" height="163" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586372916031" />
-    <state width="1308" height="163" key="GridCell.Tab.0.center" timestamp="1586372916031">
+    <state width="1308" height="163" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586512924226" />
+    <state width="1308" height="163" key="GridCell.Tab.0.center" timestamp="1586512924226">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1308" height="163" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586372916031" />
-    <state width="1308" height="163" key="GridCell.Tab.0.left" timestamp="1586372916031">
+    <state width="1308" height="163" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586512924226" />
+    <state width="1308" height="163" key="GridCell.Tab.0.left" timestamp="1586512924226">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1308" height="163" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586372916031" />
-    <state width="1308" height="163" key="GridCell.Tab.0.right" timestamp="1586372916031">
+    <state width="1308" height="163" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586512924226" />
+    <state width="1308" height="163" key="GridCell.Tab.0.right" timestamp="1586512924226">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1308" height="163" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586372916031" />
+    <state width="1308" height="163" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586512924226" />
     <state width="1308" height="203" key="GridCell.Tab.1.bottom" timestamp="1586201856336">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -236,10 +244,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1308" height="203" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1586201856336" />
-    <state x="275" y="99" key="Vcs.Push.Dialog.v2" timestamp="1586343873596">
+    <state x="275" y="99" key="Vcs.Push.Dialog.v2" timestamp="1586373324195">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="99" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1586343873596" />
+    <state x="275" y="99" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1586373324195" />
     <state x="494" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586373089761">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
