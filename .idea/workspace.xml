@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c5310e6a-4413-427d-a65a-cdbe88f8e1f0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/PythonTutorial/BreakAndContinue.py" afterDir="false" />
+    <list default="true" id="c5310e6a-4413-427d-a65a-cdbe88f8e1f0" name="Default Changelist" comment="while loop , for loop, nested loop concepts">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,7 +30,33 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Python.BreakAndContinue">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\pythonWorkspace\Python3Session\PythonTutorial" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Argument_Keywords_Lambda_In_Functions">
+    <configuration name="Argument_Keywords_Lambda_In_Functions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python3Session" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonTutorial" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonTutorial/Argument_Keywords_Lambda_In_Functions.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="BreakAndContinue" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python3Session" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -45,27 +70,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonTutorial/BreakAndContinue.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="IFELSEdemo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python3Session" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonTutorial" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonTutorial/IFELSEdemo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -95,7 +99,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="listDemo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="functionDemo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python3Session" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -107,7 +111,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonTutorial/listDemo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonTutorial/functionDemo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -139,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Argument_Keywords_Lambda_In_Functions" />
+        <item itemvalue="Python.functionDemo" />
+        <item itemvalue="Python.StringDemo" />
         <item itemvalue="Python.BreakAndContinue" />
         <item itemvalue="Python.whileloopDemo" />
-        <item itemvalue="Python.IFELSEdemo" />
-        <item itemvalue="Python.listDemo" />
-        <item itemvalue="Python.StringDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -193,7 +197,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586373312078</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="functions in python">
+      <created>1587212694368</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1587212694368</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -201,33 +212,38 @@
     <MESSAGE value="List concept" />
     <MESSAGE value="&#10;IFel concept" />
     <MESSAGE value="while loop , for loop, nested loop concepts" />
-    <option name="LAST_COMMIT_MESSAGE" value="while loop , for loop, nested loop concepts" />
+    <MESSAGE value="functions in python" />
+    <option name="LAST_COMMIT_MESSAGE" value="functions in python" />
   </component>
   <component name="WindowStateProjectService">
     <state x="433" y="173" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586172448985">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="433" y="173" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1586172448985" />
-    <state x="349" y="0" key="CommitChangelistDialog2" timestamp="1586373271261">
+    <state x="349" y="0" key="CommitChangelistDialog2" timestamp="1587323504100">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="349" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1586373271261" />
-    <state width="1308" height="163" key="GridCell.Tab.0.bottom" timestamp="1586512924226">
+    <state x="349" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1587323504100" />
+    <state x="463" y="121" key="FileChooserDialogImpl" timestamp="1586984879428">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1308" height="163" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586512924226" />
-    <state width="1308" height="163" key="GridCell.Tab.0.center" timestamp="1586512924226">
+    <state x="463" y="121" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1586984879428" />
+    <state width="1345" height="163" key="GridCell.Tab.0.bottom" timestamp="1587323336547">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1308" height="163" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586512924226" />
-    <state width="1308" height="163" key="GridCell.Tab.0.left" timestamp="1586512924226">
+    <state width="1345" height="163" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587323336547" />
+    <state width="1345" height="163" key="GridCell.Tab.0.center" timestamp="1587323336547">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1308" height="163" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586512924226" />
-    <state width="1308" height="163" key="GridCell.Tab.0.right" timestamp="1586512924226">
+    <state width="1345" height="163" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587323336547" />
+    <state width="1345" height="163" key="GridCell.Tab.0.left" timestamp="1587323336547">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1308" height="163" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586512924226" />
+    <state width="1345" height="163" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587323336547" />
+    <state width="1345" height="163" key="GridCell.Tab.0.right" timestamp="1587323336547">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="163" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587323336547" />
     <state width="1308" height="203" key="GridCell.Tab.1.bottom" timestamp="1586201856336">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -244,10 +260,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1308" height="203" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1586201856336" />
-    <state x="275" y="99" key="Vcs.Push.Dialog.v2" timestamp="1586373324195">
+    <state x="275" y="99" key="Vcs.Push.Dialog.v2" timestamp="1587323526454">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="99" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1586373324195" />
+    <state x="275" y="99" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1587323526454" />
     <state x="494" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586373089761">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -256,5 +272,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="257" y="102" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1366.728@0.0.1366.728" timestamp="1586201850110" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1586982743827">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1586982743827" />
   </component>
 </project>
