@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c5310e6a-4413-427d-a65a-cdbe88f8e1f0" name="Default Changelist" comment="while loop , for loop, nested loop concepts">
+    <list default="true" id="c5310e6a-4413-427d-a65a-cdbe88f8e1f0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/PythonTutorial/DataHiding.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,7 +36,7 @@
       <recent name="C:\pythonWorkspace\Python3Session\PythonTutorial" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Argument_Keywords_Lambda_In_Functions">
+  <component name="RunManager" selected="Python.DataHiding">
     <configuration name="Argument_Keywords_Lambda_In_Functions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python3Session" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -57,7 +58,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="BreakAndContinue" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="DataHiding" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python3Session" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -69,7 +70,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonTutorial/BreakAndContinue.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonTutorial/DataHiding.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -99,6 +100,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="classDemo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python3Session" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonTutorial" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonTutorial/classDemo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="functionDemo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python3Session" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -120,34 +142,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="whileloopDemo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python3Session" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonTutorial" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonTutorial/whileloopDemo.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.DataHiding" />
+        <item itemvalue="Python.classDemo" />
         <item itemvalue="Python.Argument_Keywords_Lambda_In_Functions" />
         <item itemvalue="Python.functionDemo" />
         <item itemvalue="Python.StringDemo" />
-        <item itemvalue="Python.BreakAndContinue" />
-        <item itemvalue="Python.whileloopDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -204,7 +205,21 @@
       <option name="project" value="LOCAL" />
       <updated>1587212694368</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="lambda function, argument and keywords">
+      <created>1587323538894</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1587323538894</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Class, function and constructor">
+      <created>1587331226133</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1587331226133</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -213,37 +228,39 @@
     <MESSAGE value="&#10;IFel concept" />
     <MESSAGE value="while loop , for loop, nested loop concepts" />
     <MESSAGE value="functions in python" />
-    <option name="LAST_COMMIT_MESSAGE" value="functions in python" />
+    <MESSAGE value="lambda function, argument and keywords" />
+    <MESSAGE value="Class, function and constructor" />
+    <option name="LAST_COMMIT_MESSAGE" value="Class, function and constructor" />
   </component>
   <component name="WindowStateProjectService">
     <state x="433" y="173" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586172448985">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="433" y="173" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1586172448985" />
-    <state x="349" y="0" key="CommitChangelistDialog2" timestamp="1587323504100">
+    <state x="349" y="0" key="CommitChangelistDialog2" timestamp="1587331205616">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="349" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1587323504100" />
+    <state x="349" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1587331205616" />
     <state x="463" y="121" key="FileChooserDialogImpl" timestamp="1586984879428">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="121" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1586984879428" />
-    <state width="1345" height="163" key="GridCell.Tab.0.bottom" timestamp="1587323336547">
+    <state width="1345" height="163" key="GridCell.Tab.0.bottom" timestamp="1587467015735">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="163" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587323336547" />
-    <state width="1345" height="163" key="GridCell.Tab.0.center" timestamp="1587323336547">
+    <state width="1345" height="163" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587467015735" />
+    <state width="1345" height="163" key="GridCell.Tab.0.center" timestamp="1587467015735">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="163" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587323336547" />
-    <state width="1345" height="163" key="GridCell.Tab.0.left" timestamp="1587323336547">
+    <state width="1345" height="163" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587467015735" />
+    <state width="1345" height="163" key="GridCell.Tab.0.left" timestamp="1587467015734">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="163" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587323336547" />
-    <state width="1345" height="163" key="GridCell.Tab.0.right" timestamp="1587323336547">
+    <state width="1345" height="163" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587467015734" />
+    <state width="1345" height="163" key="GridCell.Tab.0.right" timestamp="1587467015735">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="163" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587323336547" />
+    <state width="1345" height="163" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587467015735" />
     <state width="1308" height="203" key="GridCell.Tab.1.bottom" timestamp="1586201856336">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -260,10 +277,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1308" height="203" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1586201856336" />
-    <state x="275" y="99" key="Vcs.Push.Dialog.v2" timestamp="1587323526454">
+    <state x="275" y="99" key="Vcs.Push.Dialog.v2" timestamp="1587323683491">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="99" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1587323526454" />
+    <state x="275" y="99" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1587323683491" />
     <state x="494" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586373089761">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
