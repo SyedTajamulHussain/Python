@@ -1,5 +1,5 @@
-#Python Operators
-#Operators are used to perform operations on variables and values.
+# Python Operators
+#  are used to perform operations on variables and values.
 
 """"
 Arithmetic operators
@@ -10,7 +10,7 @@ Identity operators
 Membership operators
 Bitwise operators """
 
-#Arithmetic operators
+# Arithmetic operators
 price = 25
 GST = 3.4
 Total = price + GST

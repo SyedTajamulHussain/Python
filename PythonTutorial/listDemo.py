@@ -5,7 +5,7 @@ print(Score[-1])
 
 print(Score[:])  # new copy of list
 
-# concantanate
+# concatenate
 print(Score + [1, 2, 3] + ["ABC","tajamul"])
 
 # values are mutable and can be changed at run time
